@@ -1,6 +1,5 @@
 import { RxDashboard } from "react-icons/rx";
-import { RiTaskLine, RiSettings5Line } from "react-icons/ri";
-import { AiOutlineProject } from "react-icons/ai";
+import { RiTaskLine } from "react-icons/ri";
 
 export const MENU = [
   {
@@ -14,17 +13,5 @@ export const MENU = [
     icon: <RiTaskLine />,
     title: "Tasks",
     href: "/tasks",
-  },
-  {
-    id: 2,
-    icon: <AiOutlineProject />,
-    title: "Projects",
-    href: "/projects",
-  },
-  {
-    id: 3,
-    icon: <RiSettings5Line />,
-    title: "Settings",
-    href: "/settings",
   },
 ];
