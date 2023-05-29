@@ -9,7 +9,7 @@ const ProfileButton = () => {
       />
       <S.Content>
         <S.Text>
-          Berkin AK
+          Berkin
         </S.Text>
         <S.Subtitle>
           Software Developer
